@@ -1,0 +1,86 @@
+body {
+	background-image:url("logo.jpeg");
+	background-repeat:no-repeat;
+	background-position: top;
+	color: white;
+}
+
+#leftSide{
+	width: 30%;
+}
+
+.spacer {
+	visibility: hidden;
+}
+
+.blkKey {
+	background-color: black;
+	color: white;
+	min-height: 75px;
+	width: 100%;
+	display:inline;
+}
+
+.btn-group-vertical{
+	display: inline;
+}
+
+p {
+	min-height: 25px;
+}
+
+.navBar{
+	float: left;
+	display: inline-block;
+	width: 35%;
+}
+
+.navBack{
+display:inline;
+
+
+}
+
+#whiteKey{
+	z-index: -99;
+	position:absolute;
+	left:0px;
+	top:105px;
+	/*float:left;*/
+	clear: right;
+	border-style: solid;
+	width:350px;
+	border-color: black;
+	border-spacing: 0px;
+	border-width: 2px;
+	display:inline;
+	font-size: 25px;
+	height: 105px;
+	line-height: 105px;
+	text-align: center;
+	color:white;
+}
+
+.content{
+	position: absolute;
+	top:200px;
+	left: 37%;
+	display:inline;
+	color:black;
+	max-width: 30%;
+	text-align: center;
+}
+
+.nextPara{
+	text-align: left;
+}
+
+#signUp{
+	font-size: 40px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+#rightSide{
+	float:right;
+}

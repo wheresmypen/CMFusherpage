@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  	<meta charset="utf-8" />
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	<title>CMF Usher Page</title>
+  	<link rel="stylesheet" type="text/css" href="styleIntro.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></link>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  </head>
+
+  <body>
+  <div id="leftSide">
+  	<p> HERE IS SOME SPACE-FILLING CONTENT </p>
+  	<p> </p>
+  	<p> </p>
+  	<p> </p>
+  	<p> </p>
+
+
+
+<!-- NAV BAR -->
+
+	<div class="navBar">
+
+		<div class="btn-group-vertical">
+
+			<div class="btn-group btn-group-lg">
+				<button type="button" class="button btn blkKey">CONCERT SCHEDULE</button>
+				<p></p>
+				<button type="button" class="button btn blkKey">PERSONAL SCHEDULE</button>
+				<p></p>
+				<button type="button" class="btn blkKey">PREFERENCES</button>
+				<p></p>
+			</div>
+
+				<button type="button" class="btn btn-default spacer">Left</button>
+				<p></p>
+			<div class="btn-group btn-group-lg">
+				<button type="button" class="btn blkKey">LOGOUT</button>
+				<p></p>
+				<button type="button" class="btn blkKey">HOME</button>
+			</div>
+
+		</div>
+
+	</div>
+
+<!-- NAV BACKGROUND -->
+	
+	<div class="navBack">
+	<p><p><p><p><p><p><p>
+		<div id="whiteKey">o</p>
+		<div id="whiteKey">o</p>
+		<div id="whiteKey">o</p>
+		<div id="whiteKey">o</p>
+		<div id="whiteKey">o</p>
+		<div id="whiteKey">o</p>
+		<div id="whiteKey">o</p>
+	</div></div></div></div></div></div></div>
+	</div>
+  
+  </div>
+
+	<div class="content">
+		<p>USHER PAGE</p>
+		<p>Website instructions <br><br></p>
+		<p class="nextPara"> - Bacon ullamco proident magna id capicola. Irure in id laboris kevin labore minim meatloaf ea officia. Swine anim exercitation ut tenderloin boudin, ribeye pork ea. Deserunt ex brisket dolore elit frankfurter short loin anim in capicola pork pig aute biltong dolor. Dolore landjaeger porchetta veniam pastrami t-bone ham hock cupidatat. Occaecat short loin qui ground round doner shankle beef ribs hamburger meatball excepteur.<br> - Aute ground round duis aliqua, meatball incididunt pork chop hamburger dolor proident spare ribs pork pig mollit. Ground round et laborum mollit cow enim. Quis ham hock pastrami laborum capicola, boudin mollit ball tip in corned beef eiusmod beef ribs pork. Boudin commodo meatball tail chicken bresaola in, kielbasa in bacon dolor.</p>
+		<br>
+		<br>
+		<br>
+		<button type="button" class="btn btn-danger btn-lg btn-block" id="signUp">SIGN UP HERE</button>
+	</div>
+
+	<div id="rightSide">
+
+		<a href="http://www.comusic.org/">COLORADO MUSIC FESTIVAL homepage</a>
+
+		<br>
+
+		<br>
+
+		<a href="#"> Administration page</a>
+
+	</div>
+
+
+
+
+
+  </body>
+
+  </html>
