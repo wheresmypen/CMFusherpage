@@ -1,5 +1,5 @@
 body {
-	background-image:url("logo.jpeg");
+	background-image:url("backgrnd.png");
 	background-repeat:no-repeat;
 	background-position: top;
 	color: white;
@@ -19,6 +19,10 @@ body {
 	min-height: 75px;
 	width: 100%;
 	display:inline;
+}
+
+.blkKey:hover{
+	background-color:lightgrey;
 }
 
 .btn-group-vertical{
@@ -66,12 +70,12 @@ display:inline;
 	top:200px;
 	left: 37%;
 	display:inline;
-	color:black;
 	max-width: 30%;
 	text-align: center;
 }
 
 .nextPara{
+	color:MediumSeaGreen;
 	text-align: left;
 }
 
@@ -82,5 +86,6 @@ display:inline;
 }
 
 #rightSide{
+	display:inline-block;
 	float:right;
 }

@@ -14,7 +14,7 @@
 
   <body>
   <div id="leftSide">
-  	<p> HERE IS SOME SPACE-FILLING CONTENT </p>
+  	<p> </p>
   	<p> </p>
   	<p> </p>
   	<p> </p>
@@ -66,8 +66,9 @@
   </div>
 
 	<div class="content">
-		<p>USHER PAGE</p>
-		<p>Website instructions <br><br></p>
+		<font size="48px">USHER PAGE</font>
+		<br>
+		<font size="6px">Website instructions <br><br></font>
 		<p class="nextPara"> - Bacon ullamco proident magna id capicola. Irure in id laboris kevin labore minim meatloaf ea officia. Swine anim exercitation ut tenderloin boudin, ribeye pork ea. Deserunt ex brisket dolore elit frankfurter short loin anim in capicola pork pig aute biltong dolor. Dolore landjaeger porchetta veniam pastrami t-bone ham hock cupidatat. Occaecat short loin qui ground round doner shankle beef ribs hamburger meatball excepteur.<br> - Aute ground round duis aliqua, meatball incididunt pork chop hamburger dolor proident spare ribs pork pig mollit. Ground round et laborum mollit cow enim. Quis ham hock pastrami laborum capicola, boudin mollit ball tip in corned beef eiusmod beef ribs pork. Boudin commodo meatball tail chicken bresaola in, kielbasa in bacon dolor.</p>
 		<br>
 		<br>
@@ -80,6 +81,8 @@
 		<a href="http://www.comusic.org/">COLORADO MUSIC FESTIVAL homepage</a>
 
 		<br>
+
+		<img src="logo.jpeg">
 
 		<br>
 
